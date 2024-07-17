@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekambehl" alt="ekambehl" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **floor plan to AI house builder**
 
 - 🌱 I’m currently doing **Meta's Front End Developer certification**
 
